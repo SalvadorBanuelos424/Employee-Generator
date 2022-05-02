@@ -1,5 +1,5 @@
 Employee Generator
-![alt text](./image/pic.png
+![alt text](./image/pic.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
